@@ -1,0 +1,8 @@
+diff -u a.file b.file
+git log
+git diff
+repository
+git log --stat
+git clone url
+git config --global color.ui auto
+git checkout
