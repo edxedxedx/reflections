@@ -1,8 +1,21 @@
 diff -u a.file b.file
 git log
-git diff
+git diff: 1.without id:between working directory and staging 2. with id:between commits 3. git diff -staged: staging and commits
+git show commit
 repository
-git log --stat
+git log --stat, git log --graph --oneline branch1 branch2
 git clone url
 git config --global color.ui auto
 git checkout
+ls -a
+git init
+git status
+git add file to staging
+git reset --hard
+branches: master
+git branch label, git checkout label = git checkout -b newbranch
+git merge branch1 branch2
+git branch -d branch
+git remote add name url
+git remote -v
+git push remotename branchname
